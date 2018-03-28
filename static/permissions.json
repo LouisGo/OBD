@@ -1,0 +1,103 @@
+{
+    "Department": [
+        "fcde2235-d067-4c6e-9cc3-467f70a4c752",
+        "01ec2709-f172-42ee-80e4-077a911d5487"
+    ],
+    "Department_Put": [
+        "adf2e58b-b592-4b7d-bb54-4fd792f4717b"
+    ],
+    "Department_Delete": [
+        "9a63e603-0302-4898-a884-b81b2e81f938"
+    ],
+    "Department_Post": [
+        "3e0f69f4-f542-439e-91cd-7f4fb9649e8c"
+    ],
+    "Occupation_Put": [
+        "08046a08-cbbe-4810-8d60-2a58d36017d4"
+    ],
+    "Occupation_Delete": [
+        "b2bb96a7-0822-483f-a06d-5f479f2d95b6"
+    ],
+    "Occupation_Post": [
+        "3a21543d-228a-4277-9884-2fb6780d0aca"
+    ],
+    "Role": [
+        "e14e3b34-84cb-4203-b58a-9267a4bc2006"
+    ],
+    "Role_Put": [
+        "928422d7-3a30-45d4-b467-f2c2802707c6"
+    ],
+    "Role_Delete": [
+        "ccbfdee2-cd6d-453a-bb04-2996614045ad"
+    ],
+    "Role_Post": [
+        "260e0f2d-386b-4420-8087-b94de6b73278"
+    ],
+    "Role_RoleBind": [
+        "2b9d948a-13b2-472f-a06d-dfb29150fe80"
+    ],
+    "Role_PermissionsBind": [
+        "c61296d9-2ea3-4f66-afa1-5ba1a224a99e"
+    ],
+    "User": [
+        "3ef72b22-a9cc-4ea9-b037-6f05c2aadc23"
+    ],
+    "User_Put": [
+        "c424b7e2-56ae-41ea-b2af-ea0bed9bb3ae"
+    ],
+    "User_Delete": [
+        "32ea25fa-1d8c-4a83-a8a7-b665f7a9fb8b"
+    ],
+    "User_Post": [
+        "545b97b5-d368-48f4-bc39-bc85b39f4dd8"
+    ],
+    "System": [
+        "fcde2235-d067-4c6e-9cc3-467f70a4c752",
+        "01ec2709-f172-42ee-80e4-077a911d5487",
+        "e14e3b34-84cb-4203-b58a-9267a4bc2006",
+        "f84c2e29-4173-4d4e-b08f-439dafb425af"
+    ],
+    "AlarmConfig": [
+        "42b358f5-92c2-4654-9186-336158768379"
+    ],
+    "AlarmStatistics": [
+        "c5639e81-408e-436c-848b-898b546e582c"
+    ],
+    "AlarmConfig_Put": [
+        "6ed1e00a-4218-4555-9200-3f8db85e41c6"
+    ],
+    "Credit": [
+        "8b47f6d4-4df1-4729-afe6-c6bdb048544c"
+    ],
+    "CreditList": [
+        "8b47f6d4-4df1-4729-afe6-c6bdb048544c"
+    ],
+    "CreditHandle": [
+        "d7341e9c-5c2a-4af1-bebf-2e29ba06532e",
+        "5509c46e-5195-4482-9c02-fdd618450b68"
+    ],
+    "Credit_Post": [
+        "4ed2789c-5a6f-431b-97bf-992915d98e96"
+    ],
+    "Credit_Put": [
+        "6ed1e00a-4218-4555-9200-3f8db85e41c6"
+    ],
+    "CreditAssess": [
+        "40294d69-f445-4b2e-b24f-04c89557282e"
+    ],
+    "PlatformAccount": [
+        "5509c46e-5195-4482-9c02-fdd618450b68"
+    ],
+    "PlatformOrderStatistics": [
+        "bdcf16ac-d3fe-455a-ac50-2382ee994d58"
+    ],
+    "PlatformSkuStatistics": [
+        "61dc96ba-a77b-4113-a495-9e67d5aaf27a"
+    ],
+    "Top10SKU": [
+        "b2b9f25b-d5eb-4c21-a8fe-f3683f5d9e10"
+    ],
+    "Top10Category": [
+        "38b80184-7910-4a33-b394-8ba9c3a93812"
+    ]
+}
